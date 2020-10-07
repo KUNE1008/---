@@ -1,0 +1,47 @@
+body{
+    background-color:#121117;
+}
+.part{
+    font-size: 80px;
+    color: #ffffff;
+    font-family: "Raleway";
+    width: 85%;
+    margin: auto;
+}
+.p1{
+    margin: auto;
+}
+.bu
+{
+    background-color:white;
+    color:black;
+    width:300px;
+    height:80px;
+    letter-spacing: 4px;
+    font-size: 24px;
+    font-family: "DIN";
+    
+}
+.img{
+    align-content: center;
+}
+.pp{
+    margin: 5px auto;
+    background-color: #000000;
+    width: 20%;
+    border: black 1px solid;
+    text-align: center;
+    font: 24px bold;
+    color: #ffffff;
+}
+.pp2{
+    background-color: burlywood;
+    height: 500px;
+}
+.ppp{
+    margin: auto;
+    color: #000000;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: "Raleway";   
+}
