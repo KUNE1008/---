@@ -7,9 +7,7 @@ body{
     font-family: "Raleway";
     width: 85%;
     margin: auto;
-}
-.p1{
-    margin: auto;
+    background-image: url(bac.jpg);
 }
 .bu
 {
@@ -44,7 +42,7 @@ body{
     color: #ffffff;
 }
 .pp2{
-    background-color: burlywood;
+    background-color: #FAE2D0;
     height: 500px;
 }
 .ppp{
@@ -52,6 +50,15 @@ body{
     color: #000000;
     font-weight: bold;
     font-size: 40px;
-    font-family: "Raleway";
     text-align: center;   
+}
+.pppp{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+.ppppp{
+    font-family: "Raleway";
+    text-align: center;
+    font-size: 44px;
 }
